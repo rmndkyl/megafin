@@ -1,5 +1,5 @@
 # MEGAFIN NETWORK
-Earning by sharing internet bandthwith [https://app.megafin.xyz/dashboard](https://app.megafin.xyz/upgrade?ref=5d0f66f3)
+Earning by sharing internet bandthwith [https://app.megafin.xyz/dashboard](https://app.megafin.xyz/upgrade?ref=326e040e)
 ![banner](image.png)
 
 ## Features
@@ -20,7 +20,7 @@ Earning by sharing internet bandthwith [https://app.megafin.xyz/dashboard](https
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Zlkcyber/megafin.git
+    git clone https://github.com/rmndkyl/megafin.git
     cd megafin
     ```
 2. Install dependencies:
